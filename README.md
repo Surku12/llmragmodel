@@ -10,7 +10,7 @@ An end-to-end **Retrieval-Augmented Generation (RAG)** system that combines **La
 * 🧠 Context-aware responses with LLM
 * 📂 Custom dataset support (PDF, text, etc.)
 * ⚡ Fast retrieval using vector database (CHROMA DB)
-* 🏠 Local LLM inference using Ollama
+* 🏠 Local LLM inference using Ollama local api
 * 💬 Question-answering system
 
 ---
