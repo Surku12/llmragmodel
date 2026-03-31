@@ -76,7 +76,7 @@ Download and install from: https://ollama.com
 Run model:
 
 ```bash
-ollama run llama2
+ollama run mistral:latest
 ```
 
 ---
