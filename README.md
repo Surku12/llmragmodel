@@ -1,7 +1,6 @@
-# 🤖 LLM RAG Model (Retrieval-Augmented Generation)
+🤖 LLM RAG Model (Retrieval-Augmented Generation)
 
-An end-to-end **Retrieval-Augmented Generation (RAG)** system that combines **Large Language Models (LLMs)** with **vector search** to answer questions from custom data.
-
+An end-to-end Retrieval-Augmented Generation (RAG) system that combines Large Language Models (LLMs) local api with vector search to answer questions from custom data.
 ---
 
 ## 🚀 Features
