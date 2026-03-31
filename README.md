@@ -21,7 +21,7 @@ User Query
     ↓
 Convert to Embedding
     ↓
-Vector Search (FAISS)
+Vector Search (Chroma Db)
     ↓
 Retrieve Relevant Context
     ↓
